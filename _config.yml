@@ -93,6 +93,24 @@ content:
             We provide security patching and support for both the front and backend of PMEL's infrastructure by using tools such as JAMF, SCCM and Active Directory.
             We also generate documentation for every process we preform and assist in developing / implementing new processes and solutions.
 
+        title: Hostwinds.
+        link: hostwinds.com
+        # link_text: Hostwinds.com
+        sub_title: Frontline Support Manager.
+        caption: November 2017 - October 2020
+        quote: >
+          Sales, Support and Development for a growing webhosting company.
+        description: | # this will include new lines to allow paragraphs
+            From server installation in a datacenter to full support for whatever your webhosting needs.
+            Being the first and often single point of contact for hundreds of end users, resolving there issues is a tough job.
+            Add on top of it doing sales and support tickets, phone sales and support, and live chat sales and support, and you can start to see how the job is not for everyone.
+            I lead a team over various shifts of 30 people to accomplish this mission. I was one of 3 people writing single click install scripts for OpenStack.
+            I also preformed datacenter opperations from something as simple as swaping out a failing drive in a raid array to fully configuring a new server rack with all the switches, load balancing power, imaging and setting up security on servers and importing them into our CMS for use as VPS and shared hosting solutions for our customers.
+            Later as part of fully custom point of sale system development process, I integrated Ansible into stack so we could facilitate installing multiple services to a single systems.
+            Another project I worked on, I developed a complete monitoring solution for both internal and customer use. This made sure services were 100% opperational and automatically recovered incase of failure.
+            This project also monitored our entire IP space, checking all the IP addresses (~400,000 ip addresses) for email black list, Regional blocking, and abuse reports.
+            At first, this project was just multiprocessed and multithreaded, running asyncronously in Python. Later I turned this into a docker container and expanded it dynamically using Kubernetes, so I could provide 5 minute interval testing across our entire IP space.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
