@@ -93,6 +93,10 @@ content:
             We provide security patching and support for both the front and backend of PMEL's infrastructure by using tools such as JAMF, SCCM and Active Directory.
             We also generate documentation for every process we preform and assist in developing / implementing new processes and solutions.
 
+  - title: Experience Continued # Title for the section        
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Hostwinds.
         link: hostwinds.com
         # link_text: Hostwinds.com
@@ -100,6 +104,7 @@ content:
         caption: November 2017 - October 2020
         quote: >
           Sales, Support and Development for a growing webhosting company.
+
         description: | # this will include new lines to allow paragraphs
             From server installation in a datacenter to full support for whatever your webhosting needs.
             Being the first and often single point of contact for hundreds of end users, resolving there issues is a tough job.
