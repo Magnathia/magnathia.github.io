@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Ron and I currently hold the position of Tier 3 helpdesk Lead at the Pacific Marine Environmental Labratory (PMEL).
   I am also skilled in Python scripting, Powershell, Java, C#. I run my own home lab that includes Microsoft Active Directory, Kubernetes, Docker, Wuzah Security monitoring, Ansible AWX, and any other projects that I get interested in.
-  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, software and web application development, data science, System and network administration, and dabble in PEN testing / Red team opperations.
+  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, software and web application development, Deep learning Neural Networks, Data Science, System and Network Administration (Windows, Mac and Linux), and dabble in PEN testing / Red team opperations.
   I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
 
   I am most skilled in: <mark>Python</mark> and <mark>Ark Survival Ascended</mark>
