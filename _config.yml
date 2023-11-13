@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Ron and I currently hold the position of Tier 3 helpdesk Lead at the Pacific Marine Environmental Labratory (PMEL).
   I am also skilled in Python scripting, Powershell, Java, C#. I run my own home lab that includes Microsoft Active Directory, Kubernetes, Docker, Wuzah Security monitoring, Ansible AWX, and any other projects that I get interested in.
-  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, software and web application development, Deep learning Neural Networks, Data Science, System and Network Administration (Windows, Mac and Linux), and dabble in PEN testing / Red team opperations.
+  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, Software and Web Application development, Deep learning Neural Networks, Data Science, System and Network Administration (Windows, Mac and Linux), and dabble in PEN testing / Red team opperations.
   I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
 
   I am most skilled in: <mark>Python</mark> and <mark>Ark Survival Ascended</mark>
@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Project Eulre
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -71,9 +71,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Solving interesting problems in creative ways
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way to document my <mark>Python</mark> and <mark>Problem Solving</mark> skills. Challenges are located at projecteuler.net and present problems that can be both brute forced or solved efficiently when scailed up. Great examples keeping effecency in mind when solving problems.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
