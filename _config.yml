@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Balancing security and innovation is a tough job.
             During my time supporting the science of PMEL, I have learned that making a secure system also needs to be user friendly.
-            I lead a team of 4 others that are responsible for provisioning, and maintaining almost 200 end uer work stations as well as instrumentation systems.
+            I lead a team of 4 others that are responsible for provisioning, and maintaining almost 200 end user work stations as well as instrumentation systems.
             We provide security patching and support for both the front and backend of PMEL's infrastructure by using tools such as JAMF, SCCM and Active Directory.
             We also generate documentation for every process we preform and assist in developing / implementing new processes and solutions.
 
