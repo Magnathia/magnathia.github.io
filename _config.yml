@@ -48,8 +48,7 @@ linkedin_username: RonaldSmith
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hello, my name is Ron and I currently hold the position of Tier 3 helpdesk Lead at the Pacific Marine Environmental Labratory (PMEL). I am also skilled in Python scripting, Powershell, Java, C#. I run my own home lab that includes Microsoft Active Directory, Kubernetes, Docker, Wuzah Security monitoring, Ansible AWX, and any other projects that I get interested in. Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, software and web application development, data science, System and network administration, and dabble in PEN testing / Red team opperations. I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
