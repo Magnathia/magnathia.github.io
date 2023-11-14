@@ -142,7 +142,7 @@ content:
         caption: 2017 - 2019
         sub_title: BS Game Development and Design
         quote: >
-          Something something something...
+          “The important thing is not to stop questioning. Curiosity has its own reason for existence”  Albert Einstein
         description: | # this will include new lines to allow paragraphs
           Still coping with being a civilian and working full time, I needed a change in my life. I first picked up Python programing by learning Pygame.
           These skills taught me the basic structure of programing that I later used for automation and data science.
