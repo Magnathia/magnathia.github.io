@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Ron and I currently hold the position of Tier 3 helpdesk Lead at the Pacific Marine Environmental Labratory (PMEL).
   I am also skilled in <mark>Python scripting</mark>, <mark>Powershell</mark>, <mark>Java</mark>, <mark>C#</mark>. I run my own home lab that includes <mark>Microsoft Active Directory</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Wuzah Security monitoring</mark>, <mark>Ansible AWX</mark>, and any other projects that I get interested in.
-  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, Software and Web Application development, Deep learning Neural Networks, Data Science, System and Network Administration (Windows, Mac and Linux), and dabble in PEN testing / Red team opperations.
+  Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in <mark>Devops</mark>, <mark>Software and Web Application development</mark>, <mark>Deep learning Neural Networks</mark>, <mark>Data Science</mark>, <mark>System and Network Administration</mark> (Windows, Mac and Linux), and dabble in <mark>PEN testing</mark> / <mark>Red team opperations</mark>.
   I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
 
   I am most skilled in: <mark>Python</mark> and <mark>Ark Survival Ascended</mark>
@@ -115,12 +115,24 @@ content:
             From server installation in a datacenter to full support for whatever your webhosting needs.
             Being the first and often single point of contact for hundreds of end users, resolving there issues is a tough job.
             Add on top of it doing sales and support tickets, phone sales and support, and live chat sales and support, and you can start to see how the job is not for everyone.
-            I lead a team over various shifts of 30 people to accomplish this mission. I was one of 3 people writing single click install scripts for OpenStack.
-            I also preformed datacenter opperations from something as simple as swaping out a failing drive in a raid array to fully configuring a new server rack with all the switches, load balancing power, imaging and setting up security on servers and importing them into our CMS for use as VPS and shared hosting solutions for our customers.
-            Later as part of fully custom point of sale system development process, I integrated Ansible into stack so we could facilitate installing multiple services to a single systems.
+            I lead a team over various shifts of 30 people to accomplish this mission. I was one of 3 people writing single click install scripts for <mark>OpenStack</mark>.
+            I also preformed <mark>datacenter opperations</mark> from something as simple as swaping out a failing drive in a raid array to fully configuring a new server rack with all the switches, load balancing power, imaging and setting up security on servers and importing them into our CWHM for use as VPS and shared hosting solutions for our customers.
+            Later as part of fully custom Web Host management system development process, I integrated Ansible into stack so we could facilitate installing multiple services to a single systems.
             Another project I worked on, I developed a complete monitoring solution for both internal and customer use. This made sure services were 100% opperational and automatically recovered incase of failure.
             This project also monitored our entire IP space, checking all the IP addresses (~400,000 ip addresses) for email black list, Regional blocking, and abuse reports.
             At first, this project was just multiprocessed and multithreaded, running asyncronously in Python. Later I turned this into a docker container and expanded it dynamically using Kubernetes, so I could provide 5 minute interval testing across our entire IP space.
+            Skills I used on a daily basis include but not limited to:
+            * 7 layer network model
+            * soft skills / customer communication
+            * Linux support
+            * Windows Support
+            * cPanel support
+            * WHM support
+            * Python, bash, and Javascript
+            * Docker
+            * Kubernetes
+            * Django and Flask
+            * PHP
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
