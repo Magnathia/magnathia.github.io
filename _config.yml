@@ -118,15 +118,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Southern New Hampshire University
+        caption: 2017 - 2019
+        sub_title: BS Game Development and Design
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Something something something...
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Still coping with being a civilian and working full time, I needed a change in my life. I first picked up Python programing by learning Pygame.
+          These skills taught me the basic structure of programing that I later used for automation and data science.
+          I chose to do Game development and design to follow the same mentality that brought me to coding in the first place and learned a ton about other programing languages like Java and C#.
+          I attended school online alongside my wife and in the first year we made the deans list!
 
   - title: A Little More About Me
     layout: text
