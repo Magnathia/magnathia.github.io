@@ -152,14 +152,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      In my personal life I am largly a family man. I enjoy love learning new things and keeping my skills sharp. Some other interests and hobbies are:
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Fishing
+      - Wood working
+      - Automating my home and daily tasks
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Checkout my Linkedin for certification and more details!
 
 # Footer
 footer_show_references: true
