@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in <mark>Devops</mark>, <mark>Software and Web Application development</mark>, <mark>Deep learning Neural Networks</mark>, <mark>Data Science</mark>, <mark>System and Network Administration</mark> (Windows, Mac and Linux), and dabble in <mark>PEN testing</mark> / <mark>Red team opperations</mark>.
   I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Ark Survival Ascended</mark>
+  I am most skilled in: Python and Ark Survival Ascended
 
 content:
   - title: Projects # Title for the section
@@ -73,7 +73,7 @@ content:
         quote: >
           Solving interesting problems in creative ways
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way to document my <mark>Python</mark> and <mark>Problem Solving</mark> skills. Challenges are located at projecteuler.net and present problems that can be both brute forced or solved efficiently when scailed up. Great examples keeping effecency in mind when solving problems.
+          I started this project as a way to document my Python and <mark>Problem Solving</mark> skills. Challenges are located at projecteuler.net and present problems that can be both brute forced or solved efficiently when scailed up. Great examples keeping effecency in mind when solving problems.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,7 +131,7 @@ content:
             * Python, bash, and Javascript
             * Docker
             * Kubernetes
-            * Django and Flask
+            * <mark>Django</mark> and <mark>Flask</flask>
             * PHP
 
   - title: Education # Title for the section
