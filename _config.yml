@@ -49,7 +49,7 @@ linkedin_username: mr ron c smith
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Ron and I currently hold the position of Tier 3 helpdesk Lead at the Pacific Marine Environmental Labratory (PMEL).
-  I am also skilled in Python scripting, Powershell, Java, C#. I run my own home lab that includes Microsoft Active Directory, Kubernetes, Docker, Wuzah Security monitoring, Ansible AWX, and any other projects that I get interested in.
+  I am also skilled in <mark>Python scripting</mark>, <mark>Powershell</mark>, <mark>Java</mark>, <mark>C#</mark>. I run my own home lab that includes <mark>Microsoft Active Directory</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Wuzah Security monitoring</mark>, <mark>Ansible AWX</mark>, and any other projects that I get interested in.
   Besides preforming Helpdesk opperations and leading a team to do so, I have experiance in Devops, Software and Web Application development, Deep learning Neural Networks, Data Science, System and Network Administration (Windows, Mac and Linux), and dabble in PEN testing / Red team opperations.
   I am an Army combat veteran and belive that security should be part of every development and deployment cycle.
 
@@ -90,10 +90,18 @@ content:
             Balancing security and innovation is a tough job.
             During my time supporting the science of PMEL, I have learned that making a secure system also needs to be user friendly.
             I lead a team of 4 others that are responsible for provisioning, and maintaining almost 200 end user work stations as well as instrumentation systems.
-            We provide security patching and support for both the front and backend of PMEL's infrastructure by using tools such as JAMF, SCCM and Active Directory.
-            We also generate documentation for every process we preform and assist in developing / implementing new processes and solutions.
-
- 
+            Some responsibilities include:
+            * Security patching
+            * Microsoft Active Directory management
+            * DNS management using Infoblox
+            * Infrastructure tracking using in house developed web application PNDI
+            * Frontline help desk support
+            * Workstation Administration
+            * Device provisioning and imaging (Mac and Windows)
+            * Mac configuration management using JAMF
+            * PC configuration management using SCCM
+            * Process and change management documentation generation and maintainance
+             
       - layout: left
         title: Hostwinds.
         link: hostwinds.com
